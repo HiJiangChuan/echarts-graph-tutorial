@@ -1,6 +1,6 @@
 # Echarts 西游记人物关系图示例代码
 
-本教程配套文章请访问卡拉云技术博客：《[Echarts 关系图完全配置指南](https://kalacloud.com/blog/echarts-graph-tutorial)》
+本教程配套文章请访问卡拉云技术博客：《[Echarts 关系图完全配置指南 - 手把手教你制作西游记人物关系图](https://kalacloud.com/blog/echarts-graph-tutorial)》
 
 
 DEMO 演示地址：https://my.kalacloud.com/apps/a8f99u5q78/published
